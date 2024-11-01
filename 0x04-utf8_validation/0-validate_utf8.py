@@ -3,7 +3,7 @@
 """
 
 
-def  validUTF8(data):
+def validUTF8(data):
     """ Validates in coming data
     """
     counter = 0
@@ -28,4 +28,3 @@ def  validUTF8(data):
         return False
 
     return True
-
