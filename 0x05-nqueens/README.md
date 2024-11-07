@@ -1,0 +1,3 @@
+N-queens
+----
+Interview preparation
